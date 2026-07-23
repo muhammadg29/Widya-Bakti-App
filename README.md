@@ -1,4 +1,9 @@
-# Widya-Bakti-Press---Web-Profile
-A company profile and journal publication web application for Widya Bakti Press, featuring content management, journal promotion, publication showcase, and an admin dashboard for managing website data.
+# Widya-Bakti-Press
+Web profil perusahaan dan landing page.
 
-URL : https://widyabaktipress.com/
+## Tech Stack
+- Laravel 11, PHP 8.2
+- HTML, CSS, Javascript
+
+## URL
+https://widyabaktipress.com/
